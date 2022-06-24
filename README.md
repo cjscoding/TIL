@@ -1,3 +1,5 @@
-# Programmers 
-## Javascript
-### Coding Test
+# Today I Learn
+## June 2022
+DAY|WHAT
+---|---
+24|BigO
