@@ -6,7 +6,11 @@
 
 > GraphQL을 이해하는 server
 
-## Query Type
+## Type
+
+> GraphQL의 schema를 정의하는 것
+
+### Query Type
 
 > server의 동작을 위한 필수적인 type  
 >  like REST API의 GET
@@ -19,7 +23,7 @@ const typeDefs = gql`
 `;
 ```
 
-## Scalar Type
+### Scalar Type
 
 > GraphQL에 built-in(내장)되어있는 type.  
 > String, Int, Boolean, ID 등의 type이 있음
@@ -34,7 +38,7 @@ const typeDefs = gql`
 `;
 ```
 
-## Non Scalar Type
+### Non Scalar Type
 
 > Scalar Type 만으로 표현할 수 없는 type의 경우 직접 custom할 수 있다.
 
@@ -50,7 +54,7 @@ const typeDefs = gql`
 `;
 ```
 
-## Mutation Type
+### Mutation Type
 
 > server의 state를 mutate하는 경우 `Mutation` type에 지정해줘야 한다.  
 > like REST API의 POST, PUT, DELETE
@@ -70,7 +74,7 @@ const typeDefs = gql`
 `;
 ```
 
-## Non Nullable
+### Non Nullable
 
 > type이 null이 될 수 없음을 !(절대적)을 활용해 표현할 수 있다.
 
@@ -90,6 +94,12 @@ const typeDefs = gql`
 ```
 
 ## Resolver
+
+### Query Resolver
+
+### Mutation Resolver
+
+### Type Resolver
 
 ## Documentation
 
