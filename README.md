@@ -7,4 +7,4 @@
 | 24  | BigO                                      |
 | 25  | TailwindCSS                               |
 | 26  | GraphQL                                   |
-| 27  | Typescript / Apollo Client / Build System |
+| 27  | Typescript / GraphQL / Build System |
