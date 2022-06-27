@@ -6,3 +6,4 @@
 | --- | ----------- |
 | 24  | BigO        |
 | 25  | TailwindCSS |
+| 26  | GraphQL     |
