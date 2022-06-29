@@ -9,3 +9,4 @@
 | 26  | GraphQL                             |
 | 27  | Typescript / GraphQL / Build System |
 | 28  | Typescript / express                |
+| 29  | Typescript / express                |
