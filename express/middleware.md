@@ -68,3 +68,5 @@ const privateMiddleware = (req, res, next) => {
   next();
 };
 ```
+
+[참고 강의](https://nomadcoders.co/wetube/lectures/2647)
