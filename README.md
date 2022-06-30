@@ -10,4 +10,4 @@
 | 27  | Typescript / GraphQL / Build System |
 | 28  | Typescript / express                |
 | 29  | Typescript / express                |
-| 30  | Typescript / morgan                 |
+| 30  | Typescript / morgan / Prisma        |
