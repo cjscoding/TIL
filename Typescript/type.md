@@ -2,6 +2,10 @@
 
 ！ 변수에 값을 할당해주는 경우에는 Typescript가 추론하도록 Type을 지정해주지 않아도 된다.
 
+## concrete type
+
+> string, number, boolean any, void unkown..etc
+
 ## property
 
 ### readonly
