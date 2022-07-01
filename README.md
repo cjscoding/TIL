@@ -11,3 +11,9 @@
 | 28  | Typescript / express                |
 | 29  | Typescript / express                |
 | 30  | Typescript / morgan / Prisma        |
+
+## July 2022
+
+| DAY | WHAT         |
+| --- | ------------ |
+| 1   | Typescript / |
