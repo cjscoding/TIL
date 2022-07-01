@@ -14,6 +14,6 @@
 
 ## July 2022
 
-| DAY | WHAT         |
-| --- | ------------ |
-| 1   | Typescript / |
+| DAY | WHAT                          |
+| --- | ----------------------------- |
+| 1   | Typescript / express router / |
