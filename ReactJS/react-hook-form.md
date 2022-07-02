@@ -10,16 +10,15 @@ npm i react-hook-form
 
 - Less code
 - Easier Inputs
+- Don't deal with events
 - Have control over inputs
 - Better validation
 - Better Errors (set, clear, display)
-- Don't deal with events
 
 ## register of React Hook Form
 
 > input과 state를 연결시켜준다.  
-> 기존에 addEventListener, onChange 로직과 그에 따라 useState값을 변경시키는 로직을 줄여준다.  
-> => Less Code, Easier Inputs, and Don't deal with event
+> 기존에 addEventListener, onChange 로직과 그에 따라 useState값을 변경시키는 로직을 줄여준다.
 
 ```typescript
 import { useForm formState } from "react-hook-form";
@@ -114,5 +113,5 @@ mode를 onChange로 설정할 경우 input이 변화할 때마다 validation이 
 
 !! react-hook-form에서 validation을 사용할 때는 validation이 바로 에러에 연결된다.
 
-[공식 문서]()
+[공식 문서](https://react-hook-form.com/) |
 [참고 강의](https://nomadcoders.co/carrot-market/lectures/3532)
