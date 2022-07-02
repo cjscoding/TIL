@@ -14,6 +14,7 @@
 
 ## July 2022
 
-| DAY | WHAT                          |
-| --- | ----------------------------- |
-| 1   | Typescript / express router / |
+| DAY | WHAT                        |
+| --- | --------------------------- |
+| 1   | Typescript / express router |
+| 2   | React Hook Form             |
