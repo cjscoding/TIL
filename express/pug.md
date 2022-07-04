@@ -4,7 +4,7 @@
 
 ## Setup
 
-```bash
+```
 $ npm i pug
 ```
 
@@ -32,7 +32,7 @@ app.set("view engine", "pug");
 
 pug 작성 방식은 태그를 열고 닫지 않고 들여쓰기로 부모 자식 요소를 구분하는 것이 특징이다.
 
-```pug
+```
 doctype html
 html(lang="ko")
     head
@@ -55,10 +55,11 @@ home.pug => res.render("home");
 
 render를 할 때 해당 페이지에 변수를 prop으로 내려줄 수도 있다.
 
-````javascript
+```javascript
 const home = (req, res) => res.render("home", {pageTitle: "SueTube"});
 ```
-```pug
+
+```
 // home.pug
 
 doctype html
@@ -78,9 +79,9 @@ pug는 JS를 HTML 코드 내에서 사용할 수 있다는 장점을 가지고 �
 
 예를 들어 footer 코드의 년도를 JS의 getFullYear()로 구현할 수 있다.
 
-```pug
+```
 footer &copy; #{new Date().getFullYear()} Suetube
-````
+```
 
 <br />
 
@@ -90,7 +91,7 @@ footer &copy; #{new Date().getFullYear()} Suetube
 
 예를 들어 footer를 모듈화하는 방식을 살펴보자
 
-```pug
+```
 // /src/views/partials/footer.pug
 
 footer &copy 2022 Suetube
@@ -98,7 +99,7 @@ footer &copy 2022 Suetube
 
 이렇게 모듈화시킨 footer 파일을
 
-```pug
+```
 // /src/views/home.pug
 
 doctype html
@@ -120,7 +121,7 @@ html(lang="ko")
 
 html의 구조는 기본 틀이 거의 동일하다. 코드의 중복을 줄이기 위해 extends와 block을 사용할 수 있다.
 
-```pug
+```
 // base.pug
 
 doctype html
