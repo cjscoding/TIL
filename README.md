@@ -19,4 +19,4 @@
 | 1   | Typescript / express router          |
 | 2   | React Hook Form / Regular Expression |
 | 4   | Typescript / Pug / MVP.css           |
-| 6   | Pug                                  |
+| 6   | Pug / express urlencoded             |
