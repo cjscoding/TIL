@@ -20,3 +20,4 @@
 | 2   | React Hook Form / Regular Expression |
 | 4   | Typescript / Pug / MVP.css           |
 | 6   | Pug / express urlencoded             |
+| 7   | Typescript                           |
