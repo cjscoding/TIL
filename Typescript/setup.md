@@ -101,3 +101,5 @@ export function exit(code) {
   return code + 1;
 }
 ```
+
+[참고 강의](https://nomadcoders.co/typescript-for-beginners/lectures/3684)
