@@ -3,7 +3,7 @@
 ## June 2022
 
 | DAY | WHAT                                |
-| --- | ----------------------------------- |
+| :-: | ----------------------------------- |
 | 24  | BigO                                |
 | 25  | TailwindCSS                         |
 | 26  | GraphQL                             |
@@ -14,10 +14,11 @@
 
 ## July 2022
 
-| DAY | WHAT                                 |
-| --- | ------------------------------------ |
-| 1   | Typescript / express router          |
-| 2   | React Hook Form / Regular Expression |
-| 4   | Typescript / Pug / MVP.css           |
-| 6   | Pug / express urlencoded             |
-| 7   | Typescript                           |
+| DAY | WHAT                                       |
+| :-: | ------------------------------------------ |
+|  1  | Typescript / express router                |
+|  2  | React Hook Form / Regular Expression       |
+|  4  | Typescript / Pug / MVP.css                 |
+|  6  | Pug / express urlencoded                   |
+|  7  | Typescript                                 |
+|  8  | JS Runtime Environment / Browser Rendering |
