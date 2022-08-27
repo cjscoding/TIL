@@ -23,3 +23,10 @@
 |  7  | Typescript                           |
 |  8  | JS Runtime Environment / MongoDB     |
 |  9  | Next.js                              |
+| 25  | Vue.js                               |
+
+## August 2022
+
+| DAY | WHAT              |
+| :-: | ----------------- |
+| 24  | Vue CLI Directory |
