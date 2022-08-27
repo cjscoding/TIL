@@ -31,3 +31,27 @@
 - [README.md](http://README.md) 파일: 깃과 같은 저장소에서 프로젝트에 대한 설명을 기입하는 파일
 - tsconfig.json 파일: TS 환경설정 파일
 - vue.config.js 파일: vue에 대한 환경설정(webpack 등)을 위한 파일
+
+---
+
+참고)
+
+[https://v3.ko.vuejs.org/guide/installation.html#cli](https://v3.ko.vuejs.org/guide/installation.html#cli)
+
+[https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac](https://itnext.io/how-to-structure-my-vue-js-project-e4468db005ac)
+
+[https://m.blog.naver.com/phongdaegi/221976297043](https://m.blog.naver.com/phongdaegi/221976297043)
+
+[https://velog.io/@kwonh/Vue-Vuex-1-MVVM-전역상태관리](https://velog.io/@kwonh/Vue-Vuex-1-MVVM-%EC%A0%84%EC%97%AD%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC)
+
+[https://prostudy.tistory.com/360](https://prostudy.tistory.com/360)
+
+[https://velog.io/@sooran/tsconfig.json-제대로-알고-사용하기](https://velog.io/@sooran/tsconfig.json-%EC%A0%9C%EB%8C%80%EB%A1%9C-%EC%95%8C%EA%B3%A0-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0)
+
+[https://velog.io/@0307kwon/cypress란](https://velog.io/@0307kwon/cypress%EB%9E%80)
+
+[https://altenull.github.io/2018/03/09/웹앱-매니페스트-서비스워커-Web-App-Manifest-Service-Worker/](https://altenull.github.io/2018/03/09/%EC%9B%B9%EC%95%B1-%EB%A7%A4%EB%8B%88%ED%8E%98%EC%8A%A4%ED%8A%B8-%EC%84%9C%EB%B9%84%EC%8A%A4%EC%9B%8C%EC%BB%A4-Web-App-Manifest-Service-Worker/)
+
+[https://velog.io/@e_juhee/Test-Code](https://velog.io/@e_juhee/Test-Code)
+
+[https://stackoverflow.com/questions/54622621/what-does-the-shims-tsx-d-ts-file-do-in-a-vue-typescript-project](https://stackoverflow.com/questions/54622621/what-does-the-shims-tsx-d-ts-file-do-in-a-vue-typescript-project)

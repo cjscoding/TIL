@@ -30,3 +30,4 @@
 | DAY | WHAT              |
 | :-: | ----------------- |
 | 24  | Vue CLI Directory |
+| 26  | Vue Lifecycle     |
